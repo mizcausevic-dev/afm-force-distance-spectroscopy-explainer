@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/afm-force-distance-spectroscopy-explainer/
 
+Repository: https://github.com/mizcausevic-dev/afm-force-distance-spectroscopy-explainer
+
 ## What this is
 
 An interactive anatomy plate for AFM Force–Distance Spectroscopy. Play, scrub, or jump the five stages. The same frame always draws the same picture.
